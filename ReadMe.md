@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Engineer by degree, creator by heart , always pushing pixels and pulling requests.<br><br>
+## Engineer by degree, creator by heart , always pushing pixels and pulling requests.<br><br>
 
 
 ## 🌐 Socials:
